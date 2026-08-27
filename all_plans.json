@@ -1,0 +1,102 @@
+[
+  {
+    "plan_id": "Plan1",
+    "monthly_rental": 299,
+    "free_call_mins": 1905,
+    "free_sms": 303,
+    "free_data_gb": 1,
+    "cost_per_min": 0.72,
+    "cost_per_sms": 0.76,
+    "cost_per_gb": 13
+  },
+  {
+    "plan_id": "Plan2",
+    "monthly_rental": 399,
+    "free_call_mins": 150,
+    "free_sms": 340,
+    "free_data_gb": 20,
+    "cost_per_min": 0.37,
+    "cost_per_sms": 0.76,
+    "cost_per_gb": 61
+  },
+  {
+    "plan_id": "Plan3",
+    "monthly_rental": 599,
+    "free_call_mins": 498,
+    "free_sms": 93,
+    "free_data_gb": 5,
+    "cost_per_min": 0.39,
+    "cost_per_sms": 0.77,
+    "cost_per_gb": 37
+  },
+  {
+    "plan_id": "Plan4",
+    "monthly_rental": 599,
+    "free_call_mins": 399,
+    "free_sms": 69,
+    "free_data_gb": 20,
+    "cost_per_min": 0.23,
+    "cost_per_sms": 0.44,
+    "cost_per_gb": 36
+  },
+  {
+    "plan_id": "Plan5",
+    "monthly_rental": 499,
+    "free_call_mins": 1280,
+    "free_sms": 216,
+    "free_data_gb": 5,
+    "cost_per_min": 0.72,
+    "cost_per_sms": 0.67,
+    "cost_per_gb": 39
+  },
+  {
+    "plan_id": "Plan6",
+    "monthly_rental": 499,
+    "free_call_mins": 1098,
+    "free_sms": 423,
+    "free_data_gb": 1,
+    "cost_per_min": 0.59,
+    "cost_per_sms": 0.53,
+    "cost_per_gb": 68
+  },
+  {
+    "plan_id": "Plan7",
+    "monthly_rental": 499,
+    "free_call_mins": 539,
+    "free_sms": 274,
+    "free_data_gb": 50,
+    "cost_per_min": 0.63,
+    "cost_per_sms": 0.66,
+    "cost_per_gb": 10
+  },
+  {
+    "plan_id": "Plan8",
+    "monthly_rental": 499,
+    "free_call_mins": 521,
+    "free_sms": 57,
+    "free_data_gb": 5,
+    "cost_per_min": 0.22,
+    "cost_per_sms": 0.42,
+    "cost_per_gb": 80
+  },
+  {
+    "plan_id": "Plan9",
+    "monthly_rental": 499,
+    "free_call_mins": 1127,
+    "free_sms": 366,
+    "free_data_gb": 20,
+    "cost_per_min": 0.37,
+    "cost_per_sms": 0.29,
+    "cost_per_gb": 77
+  },
+  {
+    "plan_id": "Plan10",
+    "monthly_rental": 399,
+    "free_call_mins": 224,
+    "free_sms": 476,
+    "free_data_gb": 20,
+    "cost_per_min": 0.47,
+    "cost_per_sms": 0.28,
+    "cost_per_gb": 39
+  }
+]

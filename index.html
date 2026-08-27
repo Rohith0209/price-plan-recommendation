@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TelcoRecommend - Smart Tariff Plan Recommendations</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h2>TelcoRecommend</h2>
+            </div>
+            <div class="nav-links">
+                <button class="nav-btn active" data-section="dashboard">Dashboard</button>
+                <button class="nav-btn" data-section="lookup">Customer Lookup</button>
+                <button class="nav-btn" data-section="new-customer">New Customer</button>
+                <button class="nav-btn" data-section="plans">Plans</button>
+                <button class="nav-btn" data-section="analytics">Analytics</button>
+                <button class="nav-btn" data-section="customers">Database</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Dashboard Section -->
+        <section id="dashboard" class="section active">
+            <div class="container">
+                <div class="dashboard-header">
+                    <h1>Telecom Plan Recommendation System</h1>
+                    <p>Helping customers find the perfect plan to save money and optimize their mobile experience.</p>
+                </div>
+
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">👥</div>
+                        <div class="stat-content">
+                            <h3 id="total-customers">500</h3>
+                            <p>Total Customers</p>
+                        </div>
+                    </div>
+                    <div class="stat-card savings">
+                        <div class="stat-icon">💰</div>
+                        <div class="stat-content">
+                            <h3 id="customers-can-save">443</h3>
+                            <p>Can Save Money</p>
+                        </div>
+                    </div>
+                    <div class="stat-card success">
+                        <div class="stat-icon">📊</div>
+                        <div class="stat-content">
+                            <h3 id="avg-savings">₹744</h3>
+                            <p>Average Savings</p>
+                        </div>
+                    </div>
+                    <div class="stat-card info">
+                        <div class="stat-icon">📈</div>
+                        <div class="stat-content">
+                            <h3 id="max-savings">₹3,578</h3>
+                            <p>Maximum Savings</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-actions">
+                    <button class="btn btn--primary" data-action="lookup">Look Up Customer</button>
+                    <button class="btn btn--secondary" data-action="new-customer">New Recommendation</button>
+                    <button class="btn btn--outline" data-action="plans">Compare Plans</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Customer Lookup Section -->
+        <section id="lookup" class="section">
+            <div class="container">
+                <h1>Customer Lookup</h1>
+                <div class="lookup-form">
+                    <div class="form-group">
+                        <label for="customer-id" class="form-label">Customer ID</label>
+                        <input type="text" id="customer-id" class="form-control" placeholder="Enter Customer ID (e.g., C1, C2)">
+                        <button class="btn btn--primary" id="lookup-btn">Look Up</button>
+                    </div>
+                </div>
+
+                <div id="customer-results" class="customer-results hidden">
+                    <div class="customer-info card">
+                        <div class="card__body">
+                            <h3>Customer Profile</h3>
+                            <div id="customer-details"></div>
+                        </div>
+                    </div>
+
+                    <div class="recommendations-section">
+                        <h3>Recommended Plans</h3>
+                        <div id="recommendations-list"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- New Customer Section -->
+        <section id="new-customer" class="section">
+            <div class="container">
+                <h1>New Customer Recommendations</h1>
+                <div class="new-customer-form">
+                    <div class="usage-inputs">
+                        <div class="form-group">
+                            <label for="call-minutes" class="form-label">Call Minutes</label>
+                            <input type="range" id="call-minutes" class="range-input" min="0" max="3000" value="1000">
+                            <div class="range-value" id="call-minutes-value">1000</div>
+                        </div>
+                        <div class="form-group">
+                            <label for="sms-count" class="form-label">SMS Count</label>
+                            <input type="range" id="sms-count" class="range-input" min="0" max="500" value="200">
+                            <div class="range-value" id="sms-count-value">200</div>
+                        </div>
+                        <div class="form-group">
+                            <label for="data-gb" class="form-label">Data (GB)</label>
+                            <input type="range" id="data-gb" class="range-input" min="0" max="60" value="20">
+                            <div class="range-value" id="data-gb-value">20</div>
+                        </div>
+                        <div class="form-group">
+                            <label for="roaming-mins" class="form-label">Roaming Minutes</label>
+                            <input type="range" id="roaming-mins" class="range-input" min="0" max="200" value="50">
+                            <div class="range-value" id="roaming-mins-value">50</div>
+                        </div>
+                    </div>
+
+                    <div id="new-customer-recommendations" class="recommendations-section">
+                        <h3>Best Plans for Your Usage</h3>
+                        <div id="new-recommendations-list"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Plans Section -->
+        <section id="plans" class="section">
+            <div class="container">
+                <h1>Plan Comparison</h1>
+                <div class="plans-grid" id="plans-grid"></div>
+            </div>
+        </section>
+
+        <!-- Analytics Section -->
+        <section id="analytics" class="section">
+            <div class="container">
+                <h1>Analytics Dashboard</h1>
+                <div class="analytics-grid">
+                    <div class="chart-card card">
+                        <div class="card__body">
+                            <h3>Most Recommended Plans</h3>
+                            <div class="chart-container" style="position: relative; height: 300px;">
+                                <canvas id="recommendations-chart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chart-card card">
+                        <div class="card__body">
+                            <h3>Customer Segments</h3>
+                            <div class="chart-container" style="position: relative; height: 300px;">
+                                <canvas id="segments-chart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chart-card card">
+                        <div class="card__body">
+                            <h3>Savings by Segment</h3>
+                            <div class="chart-container" style="position: relative; height: 300px;">
+                                <canvas id="savings-chart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Customers Database Section -->
+        <section id="customers" class="section">
+            <div class="container">
+                <h1>Customer Database</h1>
+                <div class="database-controls">
+                    <select id="segment-filter" class="form-control">
+                        <option value="">All Segments</option>
+                        <option value="Moderate Users">Moderate Users</option>
+                        <option value="Heavy Voice Users">Heavy Voice Users</option>
+                        <option value="Low Usage">Low Usage</option>
+                        <option value="Data-Heavy Users">Data-Heavy Users</option>
+                        <option value="Balanced High Users">Balanced High Users</option>
+                    </select>
+                </div>
+                <div class="customers-table-container">
+                    <table class="customers-table">
+                        <thead>
+                            <tr>
+                                <th>Customer ID</th>
+                                <th>Current Plan</th>
+                                <th>Segment</th>
+                                <th>Usage</th>
+                                <th>Potential Savings</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="customers-table-body"></tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

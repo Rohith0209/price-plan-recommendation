@@ -1,0 +1,4502 @@
+[
+  {
+    "customer_id": "C1",
+    "call_minutes": 1426,
+    "sms_count": 333,
+    "data_gb": 23.12,
+    "roaming_mins": 93,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C2",
+    "call_minutes": 1370,
+    "sms_count": 27,
+    "data_gb": 42.78,
+    "roaming_mins": 61,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C3",
+    "call_minutes": 1589,
+    "sms_count": 172,
+    "data_gb": 1.31,
+    "roaming_mins": 114,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C4",
+    "call_minutes": 1097,
+    "sms_count": 115,
+    "data_gb": 31.22,
+    "roaming_mins": 85,
+    "current_plan": "Plan3",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C5",
+    "call_minutes": 1916,
+    "sms_count": 177,
+    "data_gb": 1.83,
+    "roaming_mins": 121,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C6",
+    "call_minutes": 1728,
+    "sms_count": 375,
+    "data_gb": 40.01,
+    "roaming_mins": 40,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C7",
+    "call_minutes": 214,
+    "sms_count": 37,
+    "data_gb": 20.39,
+    "roaming_mins": 137,
+    "current_plan": "Plan7",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C8",
+    "call_minutes": 302,
+    "sms_count": 142,
+    "data_gb": 48.86,
+    "roaming_mins": 174,
+    "current_plan": "Plan7",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C9",
+    "call_minutes": 1534,
+    "sms_count": 309,
+    "data_gb": 1.03,
+    "roaming_mins": 278,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C10",
+    "call_minutes": 1573,
+    "sms_count": 468,
+    "data_gb": 44.79,
+    "roaming_mins": 13,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C11",
+    "call_minutes": 1395,
+    "sms_count": 240,
+    "data_gb": 45.18,
+    "roaming_mins": 110,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C12",
+    "call_minutes": 261,
+    "sms_count": 381,
+    "data_gb": 16.76,
+    "roaming_mins": 14,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C13",
+    "call_minutes": 695,
+    "sms_count": 208,
+    "data_gb": 19.01,
+    "roaming_mins": 287,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C14",
+    "call_minutes": 1039,
+    "sms_count": 12,
+    "data_gb": 47.06,
+    "roaming_mins": 289,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C15",
+    "call_minutes": 674,
+    "sms_count": 97,
+    "data_gb": 17.46,
+    "roaming_mins": 106,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C16",
+    "call_minutes": 1197,
+    "sms_count": 143,
+    "data_gb": 18.95,
+    "roaming_mins": 185,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C17",
+    "call_minutes": 960,
+    "sms_count": 87,
+    "data_gb": 20.6,
+    "roaming_mins": 68,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C18",
+    "call_minutes": 1138,
+    "sms_count": 98,
+    "data_gb": 27.28,
+    "roaming_mins": 34,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C19",
+    "call_minutes": 192,
+    "sms_count": 414,
+    "data_gb": 18.61,
+    "roaming_mins": 276,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C20",
+    "call_minutes": 1545,
+    "sms_count": 390,
+    "data_gb": 5.83,
+    "roaming_mins": 82,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C21",
+    "call_minutes": 1070,
+    "sms_count": 54,
+    "data_gb": 18.43,
+    "roaming_mins": 5,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C22",
+    "call_minutes": 161,
+    "sms_count": 53,
+    "data_gb": 37.84,
+    "roaming_mins": 176,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C23",
+    "call_minutes": 568,
+    "sms_count": 166,
+    "data_gb": 10.21,
+    "roaming_mins": 170,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C24",
+    "call_minutes": 1401,
+    "sms_count": 76,
+    "data_gb": 28.97,
+    "roaming_mins": 114,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C25",
+    "call_minutes": 284,
+    "sms_count": 368,
+    "data_gb": 46.73,
+    "roaming_mins": 166,
+    "current_plan": "Plan6",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C26",
+    "call_minutes": 1723,
+    "sms_count": 337,
+    "data_gb": 39.53,
+    "roaming_mins": 52,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C27",
+    "call_minutes": 1229,
+    "sms_count": 413,
+    "data_gb": 39.76,
+    "roaming_mins": 178,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C28",
+    "call_minutes": 1445,
+    "sms_count": 139,
+    "data_gb": 1.16,
+    "roaming_mins": 51,
+    "current_plan": "Plan10",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C29",
+    "call_minutes": 130,
+    "sms_count": 85,
+    "data_gb": 34.39,
+    "roaming_mins": 214,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C30",
+    "call_minutes": 919,
+    "sms_count": 219,
+    "data_gb": 5.89,
+    "roaming_mins": 258,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C31",
+    "call_minutes": 116,
+    "sms_count": 449,
+    "data_gb": 40.54,
+    "roaming_mins": 278,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C32",
+    "call_minutes": 1403,
+    "sms_count": 210,
+    "data_gb": 18.88,
+    "roaming_mins": 141,
+    "current_plan": "Plan8",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C33",
+    "call_minutes": 1204,
+    "sms_count": 304,
+    "data_gb": 36.66,
+    "roaming_mins": 241,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C34",
+    "call_minutes": 1858,
+    "sms_count": 34,
+    "data_gb": 24.86,
+    "roaming_mins": 78,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C35",
+    "call_minutes": 1028,
+    "sms_count": 372,
+    "data_gb": 7.96,
+    "roaming_mins": 163,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C36",
+    "call_minutes": 1364,
+    "sms_count": 124,
+    "data_gb": 7.04,
+    "roaming_mins": 85,
+    "current_plan": "Plan3",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C37",
+    "call_minutes": 1807,
+    "sms_count": 200,
+    "data_gb": 23.58,
+    "roaming_mins": 34,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C38",
+    "call_minutes": 60,
+    "sms_count": 16,
+    "data_gb": 31.08,
+    "roaming_mins": 174,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C39",
+    "call_minutes": 395,
+    "sms_count": 252,
+    "data_gb": 4.8,
+    "roaming_mins": 202,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C40",
+    "call_minutes": 601,
+    "sms_count": 36,
+    "data_gb": 43.35,
+    "roaming_mins": 91,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C41",
+    "call_minutes": 595,
+    "sms_count": 155,
+    "data_gb": 15.16,
+    "roaming_mins": 9,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C42",
+    "call_minutes": 1404,
+    "sms_count": 54,
+    "data_gb": 29.96,
+    "roaming_mins": 219,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C43",
+    "call_minutes": 239,
+    "sms_count": 290,
+    "data_gb": 20.45,
+    "roaming_mins": 129,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C44",
+    "call_minutes": 124,
+    "sms_count": 137,
+    "data_gb": 15.6,
+    "roaming_mins": 145,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C45",
+    "call_minutes": 1061,
+    "sms_count": 160,
+    "data_gb": 37.81,
+    "roaming_mins": 209,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C46",
+    "call_minutes": 549,
+    "sms_count": 476,
+    "data_gb": 34.25,
+    "roaming_mins": 15,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C47",
+    "call_minutes": 1715,
+    "sms_count": 317,
+    "data_gb": 44.36,
+    "roaming_mins": 207,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C48",
+    "call_minutes": 952,
+    "sms_count": 483,
+    "data_gb": 14.64,
+    "roaming_mins": 63,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C49",
+    "call_minutes": 816,
+    "sms_count": 470,
+    "data_gb": 48.28,
+    "roaming_mins": 66,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C50",
+    "call_minutes": 104,
+    "sms_count": 214,
+    "data_gb": 7.49,
+    "roaming_mins": 65,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C51",
+    "call_minutes": 688,
+    "sms_count": 239,
+    "data_gb": 12.85,
+    "roaming_mins": 170,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C52",
+    "call_minutes": 449,
+    "sms_count": 78,
+    "data_gb": 13.66,
+    "roaming_mins": 80,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C53",
+    "call_minutes": 1764,
+    "sms_count": 214,
+    "data_gb": 8.38,
+    "roaming_mins": 182,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C54",
+    "call_minutes": 489,
+    "sms_count": 197,
+    "data_gb": 43.37,
+    "roaming_mins": 18,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C55",
+    "call_minutes": 1551,
+    "sms_count": 297,
+    "data_gb": 29.12,
+    "roaming_mins": 191,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C56",
+    "call_minutes": 1795,
+    "sms_count": 492,
+    "data_gb": 23.79,
+    "roaming_mins": 104,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C57",
+    "call_minutes": 1016,
+    "sms_count": 239,
+    "data_gb": 27.48,
+    "roaming_mins": 246,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C58",
+    "call_minutes": 651,
+    "sms_count": 253,
+    "data_gb": 44.19,
+    "roaming_mins": 285,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C59",
+    "call_minutes": 1157,
+    "sms_count": 420,
+    "data_gb": 15.43,
+    "roaming_mins": 284,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C60",
+    "call_minutes": 1388,
+    "sms_count": 148,
+    "data_gb": 48.34,
+    "roaming_mins": 188,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C61",
+    "call_minutes": 1732,
+    "sms_count": 126,
+    "data_gb": 26.23,
+    "roaming_mins": 134,
+    "current_plan": "Plan10",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C62",
+    "call_minutes": 888,
+    "sms_count": 248,
+    "data_gb": 3.06,
+    "roaming_mins": 168,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C63",
+    "call_minutes": 920,
+    "sms_count": 437,
+    "data_gb": 30.29,
+    "roaming_mins": 125,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C64",
+    "call_minutes": 1597,
+    "sms_count": 221,
+    "data_gb": 9.07,
+    "roaming_mins": 191,
+    "current_plan": "Plan10",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C65",
+    "call_minutes": 1597,
+    "sms_count": 171,
+    "data_gb": 22.55,
+    "roaming_mins": 89,
+    "current_plan": "Plan7",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C66",
+    "call_minutes": 185,
+    "sms_count": 180,
+    "data_gb": 21.46,
+    "roaming_mins": 183,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C67",
+    "call_minutes": 1648,
+    "sms_count": 56,
+    "data_gb": 12.56,
+    "roaming_mins": 175,
+    "current_plan": "Plan3",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C68",
+    "call_minutes": 1981,
+    "sms_count": 203,
+    "data_gb": 44.16,
+    "roaming_mins": 50,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C69",
+    "call_minutes": 1856,
+    "sms_count": 291,
+    "data_gb": 42.01,
+    "roaming_mins": 106,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C70",
+    "call_minutes": 1822,
+    "sms_count": 190,
+    "data_gb": 6.13,
+    "roaming_mins": 91,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C71",
+    "call_minutes": 1978,
+    "sms_count": 282,
+    "data_gb": 20.37,
+    "roaming_mins": 210,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C72",
+    "call_minutes": 1099,
+    "sms_count": 292,
+    "data_gb": 16.42,
+    "roaming_mins": 71,
+    "current_plan": "Plan8",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C73",
+    "call_minutes": 57,
+    "sms_count": 441,
+    "data_gb": 17.75,
+    "roaming_mins": 286,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C74",
+    "call_minutes": 1602,
+    "sms_count": 272,
+    "data_gb": 42.65,
+    "roaming_mins": 251,
+    "current_plan": "Plan10",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C75",
+    "call_minutes": 98,
+    "sms_count": 302,
+    "data_gb": 29.75,
+    "roaming_mins": 255,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C76",
+    "call_minutes": 1293,
+    "sms_count": 306,
+    "data_gb": 12.13,
+    "roaming_mins": 166,
+    "current_plan": "Plan8",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C77",
+    "call_minutes": 499,
+    "sms_count": 275,
+    "data_gb": 1.47,
+    "roaming_mins": 94,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C78",
+    "call_minutes": 1238,
+    "sms_count": 52,
+    "data_gb": 36.92,
+    "roaming_mins": 38,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C79",
+    "call_minutes": 1638,
+    "sms_count": 496,
+    "data_gb": 28.11,
+    "roaming_mins": 94,
+    "current_plan": "Plan6",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C80",
+    "call_minutes": 303,
+    "sms_count": 52,
+    "data_gb": 6.82,
+    "roaming_mins": 248,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C81",
+    "call_minutes": 464,
+    "sms_count": 124,
+    "data_gb": 23.13,
+    "roaming_mins": 111,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C82",
+    "call_minutes": 962,
+    "sms_count": 82,
+    "data_gb": 15.81,
+    "roaming_mins": 163,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C83",
+    "call_minutes": 928,
+    "sms_count": 473,
+    "data_gb": 2.64,
+    "roaming_mins": 11,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C84",
+    "call_minutes": 964,
+    "sms_count": 199,
+    "data_gb": 38.0,
+    "roaming_mins": 264,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C85",
+    "call_minutes": 316,
+    "sms_count": 204,
+    "data_gb": 41.57,
+    "roaming_mins": 179,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C86",
+    "call_minutes": 1902,
+    "sms_count": 298,
+    "data_gb": 24.14,
+    "roaming_mins": 203,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C87",
+    "call_minutes": 1617,
+    "sms_count": 495,
+    "data_gb": 32.03,
+    "roaming_mins": 229,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C88",
+    "call_minutes": 1666,
+    "sms_count": 124,
+    "data_gb": 21.9,
+    "roaming_mins": 127,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C89",
+    "call_minutes": 1834,
+    "sms_count": 390,
+    "data_gb": 15.74,
+    "roaming_mins": 117,
+    "current_plan": "Plan10",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C90",
+    "call_minutes": 521,
+    "sms_count": 141,
+    "data_gb": 27.19,
+    "roaming_mins": 275,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C91",
+    "call_minutes": 1433,
+    "sms_count": 138,
+    "data_gb": 46.56,
+    "roaming_mins": 266,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C92",
+    "call_minutes": 878,
+    "sms_count": 223,
+    "data_gb": 17.34,
+    "roaming_mins": 223,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C93",
+    "call_minutes": 707,
+    "sms_count": 275,
+    "data_gb": 8.99,
+    "roaming_mins": 280,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C94",
+    "call_minutes": 152,
+    "sms_count": 186,
+    "data_gb": 29.32,
+    "roaming_mins": 168,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C95",
+    "call_minutes": 1484,
+    "sms_count": 56,
+    "data_gb": 48.49,
+    "roaming_mins": 91,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C96",
+    "call_minutes": 1983,
+    "sms_count": 434,
+    "data_gb": 4.37,
+    "roaming_mins": 191,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C97",
+    "call_minutes": 237,
+    "sms_count": 267,
+    "data_gb": 43.74,
+    "roaming_mins": 74,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C98",
+    "call_minutes": 487,
+    "sms_count": 326,
+    "data_gb": 21.88,
+    "roaming_mins": 253,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C99",
+    "call_minutes": 1273,
+    "sms_count": 114,
+    "data_gb": 28.13,
+    "roaming_mins": 162,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C100",
+    "call_minutes": 609,
+    "sms_count": 215,
+    "data_gb": 13.51,
+    "roaming_mins": 122,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C101",
+    "call_minutes": 1301,
+    "sms_count": 345,
+    "data_gb": 39.02,
+    "roaming_mins": 169,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C102",
+    "call_minutes": 555,
+    "sms_count": 25,
+    "data_gb": 3.87,
+    "roaming_mins": 140,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C103",
+    "call_minutes": 755,
+    "sms_count": 83,
+    "data_gb": 49.58,
+    "roaming_mins": 85,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C104",
+    "call_minutes": 836,
+    "sms_count": 280,
+    "data_gb": 1.35,
+    "roaming_mins": 90,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C105",
+    "call_minutes": 436,
+    "sms_count": 403,
+    "data_gb": 7.08,
+    "roaming_mins": 248,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C106",
+    "call_minutes": 1667,
+    "sms_count": 270,
+    "data_gb": 24.25,
+    "roaming_mins": 78,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C107",
+    "call_minutes": 1078,
+    "sms_count": 289,
+    "data_gb": 7.85,
+    "roaming_mins": 29,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C108",
+    "call_minutes": 1968,
+    "sms_count": 253,
+    "data_gb": 16.39,
+    "roaming_mins": 71,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C109",
+    "call_minutes": 826,
+    "sms_count": 25,
+    "data_gb": 2.0,
+    "roaming_mins": 207,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C110",
+    "call_minutes": 1859,
+    "sms_count": 463,
+    "data_gb": 44.86,
+    "roaming_mins": 279,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C111",
+    "call_minutes": 1142,
+    "sms_count": 306,
+    "data_gb": 43.93,
+    "roaming_mins": 187,
+    "current_plan": "Plan7",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C112",
+    "call_minutes": 1920,
+    "sms_count": 358,
+    "data_gb": 42.51,
+    "roaming_mins": 52,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C113",
+    "call_minutes": 207,
+    "sms_count": 396,
+    "data_gb": 1.5,
+    "roaming_mins": 243,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C114",
+    "call_minutes": 1322,
+    "sms_count": 162,
+    "data_gb": 32.57,
+    "roaming_mins": 19,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C115",
+    "call_minutes": 1523,
+    "sms_count": 472,
+    "data_gb": 23.75,
+    "roaming_mins": 228,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C116",
+    "call_minutes": 725,
+    "sms_count": 364,
+    "data_gb": 33.26,
+    "roaming_mins": 45,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C117",
+    "call_minutes": 1333,
+    "sms_count": 320,
+    "data_gb": 36.74,
+    "roaming_mins": 78,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C118",
+    "call_minutes": 1673,
+    "sms_count": 58,
+    "data_gb": 12.13,
+    "roaming_mins": 42,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C119",
+    "call_minutes": 1364,
+    "sms_count": 69,
+    "data_gb": 43.0,
+    "roaming_mins": 137,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C120",
+    "call_minutes": 163,
+    "sms_count": 99,
+    "data_gb": 6.14,
+    "roaming_mins": 133,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C121",
+    "call_minutes": 983,
+    "sms_count": 208,
+    "data_gb": 23.14,
+    "roaming_mins": 54,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C122",
+    "call_minutes": 995,
+    "sms_count": 199,
+    "data_gb": 49.04,
+    "roaming_mins": 43,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C123",
+    "call_minutes": 1504,
+    "sms_count": 315,
+    "data_gb": 3.41,
+    "roaming_mins": 263,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C124",
+    "call_minutes": 1731,
+    "sms_count": 254,
+    "data_gb": 24.02,
+    "roaming_mins": 204,
+    "current_plan": "Plan8",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C125",
+    "call_minutes": 1722,
+    "sms_count": 99,
+    "data_gb": 34.73,
+    "roaming_mins": 269,
+    "current_plan": "Plan7",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C126",
+    "call_minutes": 426,
+    "sms_count": 408,
+    "data_gb": 34.99,
+    "roaming_mins": 283,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C127",
+    "call_minutes": 473,
+    "sms_count": 336,
+    "data_gb": 45.72,
+    "roaming_mins": 54,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C128",
+    "call_minutes": 1531,
+    "sms_count": 92,
+    "data_gb": 45.14,
+    "roaming_mins": 254,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C129",
+    "call_minutes": 640,
+    "sms_count": 75,
+    "data_gb": 42.58,
+    "roaming_mins": 2,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C130",
+    "call_minutes": 528,
+    "sms_count": 86,
+    "data_gb": 28.13,
+    "roaming_mins": 74,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C131",
+    "call_minutes": 1288,
+    "sms_count": 71,
+    "data_gb": 25.6,
+    "roaming_mins": 286,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C132",
+    "call_minutes": 905,
+    "sms_count": 467,
+    "data_gb": 2.48,
+    "roaming_mins": 224,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C133",
+    "call_minutes": 1972,
+    "sms_count": 393,
+    "data_gb": 45.06,
+    "roaming_mins": 216,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C134",
+    "call_minutes": 836,
+    "sms_count": 141,
+    "data_gb": 20.81,
+    "roaming_mins": 201,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C135",
+    "call_minutes": 162,
+    "sms_count": 196,
+    "data_gb": 11.31,
+    "roaming_mins": 293,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C136",
+    "call_minutes": 493,
+    "sms_count": 53,
+    "data_gb": 44.45,
+    "roaming_mins": 265,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C137",
+    "call_minutes": 220,
+    "sms_count": 146,
+    "data_gb": 7.71,
+    "roaming_mins": 271,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C138",
+    "call_minutes": 407,
+    "sms_count": 223,
+    "data_gb": 2.79,
+    "roaming_mins": 142,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C139",
+    "call_minutes": 1763,
+    "sms_count": 48,
+    "data_gb": 21.87,
+    "roaming_mins": 90,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C140",
+    "call_minutes": 447,
+    "sms_count": 186,
+    "data_gb": 43.76,
+    "roaming_mins": 6,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C141",
+    "call_minutes": 452,
+    "sms_count": 431,
+    "data_gb": 15.01,
+    "roaming_mins": 245,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C142",
+    "call_minutes": 1371,
+    "sms_count": 201,
+    "data_gb": 16.78,
+    "roaming_mins": 254,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C143",
+    "call_minutes": 720,
+    "sms_count": 407,
+    "data_gb": 6.68,
+    "roaming_mins": 243,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C144",
+    "call_minutes": 1740,
+    "sms_count": 382,
+    "data_gb": 25.34,
+    "roaming_mins": 232,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C145",
+    "call_minutes": 655,
+    "sms_count": 83,
+    "data_gb": 47.82,
+    "roaming_mins": 250,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C146",
+    "call_minutes": 835,
+    "sms_count": 279,
+    "data_gb": 47.74,
+    "roaming_mins": 218,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C147",
+    "call_minutes": 650,
+    "sms_count": 343,
+    "data_gb": 1.28,
+    "roaming_mins": 146,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C148",
+    "call_minutes": 432,
+    "sms_count": 170,
+    "data_gb": 33.8,
+    "roaming_mins": 200,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C149",
+    "call_minutes": 1616,
+    "sms_count": 388,
+    "data_gb": 1.06,
+    "roaming_mins": 2,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C150",
+    "call_minutes": 904,
+    "sms_count": 297,
+    "data_gb": 20.78,
+    "roaming_mins": 84,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C151",
+    "call_minutes": 1715,
+    "sms_count": 187,
+    "data_gb": 29.81,
+    "roaming_mins": 63,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C152",
+    "call_minutes": 1710,
+    "sms_count": 31,
+    "data_gb": 48.9,
+    "roaming_mins": 211,
+    "current_plan": "Plan7",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C153",
+    "call_minutes": 79,
+    "sms_count": 446,
+    "data_gb": 38.84,
+    "roaming_mins": 73,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C154",
+    "call_minutes": 600,
+    "sms_count": 398,
+    "data_gb": 5.98,
+    "roaming_mins": 19,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C155",
+    "call_minutes": 1088,
+    "sms_count": 42,
+    "data_gb": 46.02,
+    "roaming_mins": 225,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C156",
+    "call_minutes": 1660,
+    "sms_count": 399,
+    "data_gb": 21.87,
+    "roaming_mins": 295,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C157",
+    "call_minutes": 1918,
+    "sms_count": 127,
+    "data_gb": 3.55,
+    "roaming_mins": 156,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C158",
+    "call_minutes": 293,
+    "sms_count": 321,
+    "data_gb": 21.16,
+    "roaming_mins": 234,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C159",
+    "call_minutes": 1020,
+    "sms_count": 344,
+    "data_gb": 17.31,
+    "roaming_mins": 193,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C160",
+    "call_minutes": 789,
+    "sms_count": 494,
+    "data_gb": 27.45,
+    "roaming_mins": 194,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C161",
+    "call_minutes": 1832,
+    "sms_count": 58,
+    "data_gb": 1.24,
+    "roaming_mins": 286,
+    "current_plan": "Plan6",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C162",
+    "call_minutes": 1140,
+    "sms_count": 216,
+    "data_gb": 42.26,
+    "roaming_mins": 268,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C163",
+    "call_minutes": 943,
+    "sms_count": 359,
+    "data_gb": 21.61,
+    "roaming_mins": 227,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C164",
+    "call_minutes": 1916,
+    "sms_count": 373,
+    "data_gb": 22.03,
+    "roaming_mins": 114,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C165",
+    "call_minutes": 486,
+    "sms_count": 430,
+    "data_gb": 21.53,
+    "roaming_mins": 75,
+    "current_plan": "Plan6",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C166",
+    "call_minutes": 988,
+    "sms_count": 443,
+    "data_gb": 23.5,
+    "roaming_mins": 4,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C167",
+    "call_minutes": 1875,
+    "sms_count": 216,
+    "data_gb": 32.77,
+    "roaming_mins": 133,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C168",
+    "call_minutes": 818,
+    "sms_count": 360,
+    "data_gb": 20.04,
+    "roaming_mins": 161,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C169",
+    "call_minutes": 1602,
+    "sms_count": 238,
+    "data_gb": 19.98,
+    "roaming_mins": 213,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C170",
+    "call_minutes": 530,
+    "sms_count": 403,
+    "data_gb": 16.49,
+    "roaming_mins": 293,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C171",
+    "call_minutes": 939,
+    "sms_count": 213,
+    "data_gb": 13.72,
+    "roaming_mins": 277,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C172",
+    "call_minutes": 1860,
+    "sms_count": 87,
+    "data_gb": 20.39,
+    "roaming_mins": 118,
+    "current_plan": "Plan7",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C173",
+    "call_minutes": 1692,
+    "sms_count": 454,
+    "data_gb": 20.05,
+    "roaming_mins": 261,
+    "current_plan": "Plan10",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C174",
+    "call_minutes": 455,
+    "sms_count": 481,
+    "data_gb": 24.9,
+    "roaming_mins": 258,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C175",
+    "call_minutes": 1889,
+    "sms_count": 371,
+    "data_gb": 24.16,
+    "roaming_mins": 137,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C176",
+    "call_minutes": 987,
+    "sms_count": 242,
+    "data_gb": 46.37,
+    "roaming_mins": 128,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C177",
+    "call_minutes": 641,
+    "sms_count": 383,
+    "data_gb": 46.12,
+    "roaming_mins": 64,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C178",
+    "call_minutes": 1868,
+    "sms_count": 441,
+    "data_gb": 5.81,
+    "roaming_mins": 36,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C179",
+    "call_minutes": 1145,
+    "sms_count": 250,
+    "data_gb": 4.59,
+    "roaming_mins": 24,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C180",
+    "call_minutes": 355,
+    "sms_count": 72,
+    "data_gb": 7.7,
+    "roaming_mins": 98,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C181",
+    "call_minutes": 1300,
+    "sms_count": 431,
+    "data_gb": 25.21,
+    "roaming_mins": 3,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C182",
+    "call_minutes": 1463,
+    "sms_count": 138,
+    "data_gb": 37.39,
+    "roaming_mins": 5,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C183",
+    "call_minutes": 604,
+    "sms_count": 303,
+    "data_gb": 13.63,
+    "roaming_mins": 183,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C184",
+    "call_minutes": 965,
+    "sms_count": 164,
+    "data_gb": 2.02,
+    "roaming_mins": 205,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C185",
+    "call_minutes": 973,
+    "sms_count": 187,
+    "data_gb": 25.26,
+    "roaming_mins": 220,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C186",
+    "call_minutes": 588,
+    "sms_count": 484,
+    "data_gb": 3.7,
+    "roaming_mins": 80,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C187",
+    "call_minutes": 570,
+    "sms_count": 252,
+    "data_gb": 15.1,
+    "roaming_mins": 275,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C188",
+    "call_minutes": 1188,
+    "sms_count": 27,
+    "data_gb": 11.01,
+    "roaming_mins": 211,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C189",
+    "call_minutes": 228,
+    "sms_count": 259,
+    "data_gb": 30.1,
+    "roaming_mins": 152,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C190",
+    "call_minutes": 871,
+    "sms_count": 256,
+    "data_gb": 44.01,
+    "roaming_mins": 35,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C191",
+    "call_minutes": 1167,
+    "sms_count": 399,
+    "data_gb": 14.24,
+    "roaming_mins": 65,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C192",
+    "call_minutes": 508,
+    "sms_count": 216,
+    "data_gb": 13.27,
+    "roaming_mins": 102,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C193",
+    "call_minutes": 453,
+    "sms_count": 318,
+    "data_gb": 44.79,
+    "roaming_mins": 110,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C194",
+    "call_minutes": 1216,
+    "sms_count": 35,
+    "data_gb": 23.01,
+    "roaming_mins": 157,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C195",
+    "call_minutes": 1729,
+    "sms_count": 156,
+    "data_gb": 9.43,
+    "roaming_mins": 71,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C196",
+    "call_minutes": 173,
+    "sms_count": 37,
+    "data_gb": 2.8,
+    "roaming_mins": 234,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C197",
+    "call_minutes": 1618,
+    "sms_count": 214,
+    "data_gb": 2.62,
+    "roaming_mins": 257,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C198",
+    "call_minutes": 1509,
+    "sms_count": 262,
+    "data_gb": 3.16,
+    "roaming_mins": 185,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C199",
+    "call_minutes": 215,
+    "sms_count": 11,
+    "data_gb": 11.74,
+    "roaming_mins": 54,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C200",
+    "call_minutes": 1789,
+    "sms_count": 10,
+    "data_gb": 4.33,
+    "roaming_mins": 79,
+    "current_plan": "Plan3",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C201",
+    "call_minutes": 550,
+    "sms_count": 16,
+    "data_gb": 34.87,
+    "roaming_mins": 86,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C202",
+    "call_minutes": 920,
+    "sms_count": 308,
+    "data_gb": 4.43,
+    "roaming_mins": 223,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C203",
+    "call_minutes": 381,
+    "sms_count": 395,
+    "data_gb": 17.23,
+    "roaming_mins": 276,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C204",
+    "call_minutes": 143,
+    "sms_count": 150,
+    "data_gb": 44.87,
+    "roaming_mins": 41,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C205",
+    "call_minutes": 587,
+    "sms_count": 58,
+    "data_gb": 44.65,
+    "roaming_mins": 9,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C206",
+    "call_minutes": 1387,
+    "sms_count": 373,
+    "data_gb": 42.01,
+    "roaming_mins": 20,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C207",
+    "call_minutes": 1511,
+    "sms_count": 18,
+    "data_gb": 44.56,
+    "roaming_mins": 68,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C208",
+    "call_minutes": 652,
+    "sms_count": 421,
+    "data_gb": 9.18,
+    "roaming_mins": 144,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C209",
+    "call_minutes": 1547,
+    "sms_count": 281,
+    "data_gb": 25.77,
+    "roaming_mins": 162,
+    "current_plan": "Plan8",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C210",
+    "call_minutes": 1341,
+    "sms_count": 205,
+    "data_gb": 12.99,
+    "roaming_mins": 217,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C211",
+    "call_minutes": 622,
+    "sms_count": 91,
+    "data_gb": 34.62,
+    "roaming_mins": 170,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C212",
+    "call_minutes": 1240,
+    "sms_count": 388,
+    "data_gb": 37.57,
+    "roaming_mins": 172,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C213",
+    "call_minutes": 1270,
+    "sms_count": 430,
+    "data_gb": 27.24,
+    "roaming_mins": 94,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C214",
+    "call_minutes": 1782,
+    "sms_count": 326,
+    "data_gb": 6.07,
+    "roaming_mins": 86,
+    "current_plan": "Plan7",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C215",
+    "call_minutes": 1906,
+    "sms_count": 487,
+    "data_gb": 45.72,
+    "roaming_mins": 241,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C216",
+    "call_minutes": 143,
+    "sms_count": 148,
+    "data_gb": 19.36,
+    "roaming_mins": 73,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C217",
+    "call_minutes": 1824,
+    "sms_count": 155,
+    "data_gb": 45.07,
+    "roaming_mins": 132,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C218",
+    "call_minutes": 951,
+    "sms_count": 150,
+    "data_gb": 17.64,
+    "roaming_mins": 231,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C219",
+    "call_minutes": 1006,
+    "sms_count": 200,
+    "data_gb": 25.65,
+    "roaming_mins": 243,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C220",
+    "call_minutes": 582,
+    "sms_count": 473,
+    "data_gb": 13.47,
+    "roaming_mins": 219,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C221",
+    "call_minutes": 74,
+    "sms_count": 257,
+    "data_gb": 48.13,
+    "roaming_mins": 103,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C222",
+    "call_minutes": 1493,
+    "sms_count": 353,
+    "data_gb": 11.36,
+    "roaming_mins": 114,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C223",
+    "call_minutes": 671,
+    "sms_count": 247,
+    "data_gb": 9.63,
+    "roaming_mins": 45,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C224",
+    "call_minutes": 275,
+    "sms_count": 232,
+    "data_gb": 35.43,
+    "roaming_mins": 168,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C225",
+    "call_minutes": 1686,
+    "sms_count": 62,
+    "data_gb": 27.39,
+    "roaming_mins": 136,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C226",
+    "call_minutes": 750,
+    "sms_count": 275,
+    "data_gb": 10.94,
+    "roaming_mins": 50,
+    "current_plan": "Plan7",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C227",
+    "call_minutes": 1134,
+    "sms_count": 222,
+    "data_gb": 8.64,
+    "roaming_mins": 167,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C228",
+    "call_minutes": 1101,
+    "sms_count": 494,
+    "data_gb": 35.58,
+    "roaming_mins": 3,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C229",
+    "call_minutes": 1850,
+    "sms_count": 339,
+    "data_gb": 16.55,
+    "roaming_mins": 273,
+    "current_plan": "Plan5",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C230",
+    "call_minutes": 1866,
+    "sms_count": 367,
+    "data_gb": 37.06,
+    "roaming_mins": 209,
+    "current_plan": "Plan5",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C231",
+    "call_minutes": 101,
+    "sms_count": 52,
+    "data_gb": 33.03,
+    "roaming_mins": 184,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C232",
+    "call_minutes": 1327,
+    "sms_count": 447,
+    "data_gb": 27.91,
+    "roaming_mins": 226,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C233",
+    "call_minutes": 143,
+    "sms_count": 113,
+    "data_gb": 41.1,
+    "roaming_mins": 191,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C234",
+    "call_minutes": 1291,
+    "sms_count": 406,
+    "data_gb": 19.47,
+    "roaming_mins": 133,
+    "current_plan": "Plan8",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C235",
+    "call_minutes": 1143,
+    "sms_count": 200,
+    "data_gb": 12.84,
+    "roaming_mins": 128,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C236",
+    "call_minutes": 1165,
+    "sms_count": 135,
+    "data_gb": 40.15,
+    "roaming_mins": 134,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C237",
+    "call_minutes": 785,
+    "sms_count": 484,
+    "data_gb": 23.49,
+    "roaming_mins": 85,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C238",
+    "call_minutes": 1066,
+    "sms_count": 319,
+    "data_gb": 24.11,
+    "roaming_mins": 16,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C239",
+    "call_minutes": 1948,
+    "sms_count": 139,
+    "data_gb": 13.57,
+    "roaming_mins": 260,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C240",
+    "call_minutes": 666,
+    "sms_count": 80,
+    "data_gb": 39.47,
+    "roaming_mins": 282,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C241",
+    "call_minutes": 915,
+    "sms_count": 92,
+    "data_gb": 6.7,
+    "roaming_mins": 291,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C242",
+    "call_minutes": 873,
+    "sms_count": 20,
+    "data_gb": 23.54,
+    "roaming_mins": 123,
+    "current_plan": "Plan7",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C243",
+    "call_minutes": 519,
+    "sms_count": 50,
+    "data_gb": 45.93,
+    "roaming_mins": 48,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C244",
+    "call_minutes": 313,
+    "sms_count": 143,
+    "data_gb": 26.64,
+    "roaming_mins": 147,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C245",
+    "call_minutes": 140,
+    "sms_count": 217,
+    "data_gb": 8.95,
+    "roaming_mins": 225,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C246",
+    "call_minutes": 1053,
+    "sms_count": 110,
+    "data_gb": 37.58,
+    "roaming_mins": 104,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C247",
+    "call_minutes": 415,
+    "sms_count": 145,
+    "data_gb": 34.73,
+    "roaming_mins": 74,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C248",
+    "call_minutes": 316,
+    "sms_count": 129,
+    "data_gb": 16.35,
+    "roaming_mins": 246,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C249",
+    "call_minutes": 213,
+    "sms_count": 28,
+    "data_gb": 36.0,
+    "roaming_mins": 233,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C250",
+    "call_minutes": 1263,
+    "sms_count": 186,
+    "data_gb": 20.67,
+    "roaming_mins": 5,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C251",
+    "call_minutes": 126,
+    "sms_count": 464,
+    "data_gb": 4.66,
+    "roaming_mins": 142,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C252",
+    "call_minutes": 1142,
+    "sms_count": 139,
+    "data_gb": 15.93,
+    "roaming_mins": 73,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C253",
+    "call_minutes": 1595,
+    "sms_count": 249,
+    "data_gb": 2.55,
+    "roaming_mins": 245,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C254",
+    "call_minutes": 884,
+    "sms_count": 276,
+    "data_gb": 7.87,
+    "roaming_mins": 119,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C255",
+    "call_minutes": 241,
+    "sms_count": 291,
+    "data_gb": 13.55,
+    "roaming_mins": 151,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C256",
+    "call_minutes": 1308,
+    "sms_count": 322,
+    "data_gb": 43.8,
+    "roaming_mins": 232,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C257",
+    "call_minutes": 321,
+    "sms_count": 200,
+    "data_gb": 8.41,
+    "roaming_mins": 218,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C258",
+    "call_minutes": 1895,
+    "sms_count": 19,
+    "data_gb": 9.03,
+    "roaming_mins": 271,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C259",
+    "call_minutes": 833,
+    "sms_count": 162,
+    "data_gb": 20.3,
+    "roaming_mins": 182,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C260",
+    "call_minutes": 1138,
+    "sms_count": 68,
+    "data_gb": 41.28,
+    "roaming_mins": 194,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C261",
+    "call_minutes": 1905,
+    "sms_count": 480,
+    "data_gb": 14.0,
+    "roaming_mins": 200,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C262",
+    "call_minutes": 1663,
+    "sms_count": 280,
+    "data_gb": 23.66,
+    "roaming_mins": 132,
+    "current_plan": "Plan8",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C263",
+    "call_minutes": 1315,
+    "sms_count": 372,
+    "data_gb": 34.45,
+    "roaming_mins": 144,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C264",
+    "call_minutes": 1515,
+    "sms_count": 108,
+    "data_gb": 46.97,
+    "roaming_mins": 164,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C265",
+    "call_minutes": 1855,
+    "sms_count": 164,
+    "data_gb": 27.95,
+    "roaming_mins": 162,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C266",
+    "call_minutes": 1409,
+    "sms_count": 61,
+    "data_gb": 39.43,
+    "roaming_mins": 149,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C267",
+    "call_minutes": 1260,
+    "sms_count": 464,
+    "data_gb": 46.87,
+    "roaming_mins": 3,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C268",
+    "call_minutes": 309,
+    "sms_count": 481,
+    "data_gb": 25.51,
+    "roaming_mins": 123,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C269",
+    "call_minutes": 327,
+    "sms_count": 137,
+    "data_gb": 27.06,
+    "roaming_mins": 142,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C270",
+    "call_minutes": 191,
+    "sms_count": 343,
+    "data_gb": 47.87,
+    "roaming_mins": 19,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C271",
+    "call_minutes": 1520,
+    "sms_count": 134,
+    "data_gb": 7.44,
+    "roaming_mins": 89,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C272",
+    "call_minutes": 1832,
+    "sms_count": 399,
+    "data_gb": 5.36,
+    "roaming_mins": 27,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C273",
+    "call_minutes": 1999,
+    "sms_count": 31,
+    "data_gb": 24.06,
+    "roaming_mins": 93,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C274",
+    "call_minutes": 1727,
+    "sms_count": 46,
+    "data_gb": 13.63,
+    "roaming_mins": 203,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C275",
+    "call_minutes": 1444,
+    "sms_count": 487,
+    "data_gb": 24.42,
+    "roaming_mins": 211,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C276",
+    "call_minutes": 1745,
+    "sms_count": 292,
+    "data_gb": 12.59,
+    "roaming_mins": 153,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C277",
+    "call_minutes": 1114,
+    "sms_count": 188,
+    "data_gb": 32.09,
+    "roaming_mins": 178,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C278",
+    "call_minutes": 496,
+    "sms_count": 485,
+    "data_gb": 12.01,
+    "roaming_mins": 267,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C279",
+    "call_minutes": 387,
+    "sms_count": 34,
+    "data_gb": 33.73,
+    "roaming_mins": 104,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C280",
+    "call_minutes": 252,
+    "sms_count": 60,
+    "data_gb": 2.43,
+    "roaming_mins": 47,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C281",
+    "call_minutes": 749,
+    "sms_count": 22,
+    "data_gb": 21.43,
+    "roaming_mins": 60,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C282",
+    "call_minutes": 1759,
+    "sms_count": 436,
+    "data_gb": 1.84,
+    "roaming_mins": 96,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C283",
+    "call_minutes": 664,
+    "sms_count": 462,
+    "data_gb": 17.55,
+    "roaming_mins": 109,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C284",
+    "call_minutes": 307,
+    "sms_count": 231,
+    "data_gb": 2.83,
+    "roaming_mins": 12,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C285",
+    "call_minutes": 1717,
+    "sms_count": 81,
+    "data_gb": 4.11,
+    "roaming_mins": 107,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C286",
+    "call_minutes": 306,
+    "sms_count": 165,
+    "data_gb": 44.55,
+    "roaming_mins": 292,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C287",
+    "call_minutes": 960,
+    "sms_count": 36,
+    "data_gb": 6.23,
+    "roaming_mins": 284,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C288",
+    "call_minutes": 955,
+    "sms_count": 67,
+    "data_gb": 0.59,
+    "roaming_mins": 36,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C289",
+    "call_minutes": 274,
+    "sms_count": 290,
+    "data_gb": 44.64,
+    "roaming_mins": 261,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C290",
+    "call_minutes": 1511,
+    "sms_count": 128,
+    "data_gb": 6.6,
+    "roaming_mins": 32,
+    "current_plan": "Plan10",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C291",
+    "call_minutes": 823,
+    "sms_count": 121,
+    "data_gb": 46.54,
+    "roaming_mins": 297,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C292",
+    "call_minutes": 294,
+    "sms_count": 466,
+    "data_gb": 19.7,
+    "roaming_mins": 195,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C293",
+    "call_minutes": 512,
+    "sms_count": 468,
+    "data_gb": 10.01,
+    "roaming_mins": 276,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C294",
+    "call_minutes": 87,
+    "sms_count": 328,
+    "data_gb": 28.59,
+    "roaming_mins": 74,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C295",
+    "call_minutes": 1812,
+    "sms_count": 412,
+    "data_gb": 3.88,
+    "roaming_mins": 167,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C296",
+    "call_minutes": 1887,
+    "sms_count": 478,
+    "data_gb": 33.47,
+    "roaming_mins": 11,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C297",
+    "call_minutes": 273,
+    "sms_count": 313,
+    "data_gb": 19.1,
+    "roaming_mins": 53,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C298",
+    "call_minutes": 1804,
+    "sms_count": 497,
+    "data_gb": 33.64,
+    "roaming_mins": 210,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C299",
+    "call_minutes": 719,
+    "sms_count": 428,
+    "data_gb": 31.77,
+    "roaming_mins": 120,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C300",
+    "call_minutes": 684,
+    "sms_count": 371,
+    "data_gb": 10.96,
+    "roaming_mins": 175,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C301",
+    "call_minutes": 1228,
+    "sms_count": 338,
+    "data_gb": 38.38,
+    "roaming_mins": 184,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C302",
+    "call_minutes": 1352,
+    "sms_count": 174,
+    "data_gb": 30.65,
+    "roaming_mins": 18,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C303",
+    "call_minutes": 768,
+    "sms_count": 31,
+    "data_gb": 5.82,
+    "roaming_mins": 242,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C304",
+    "call_minutes": 133,
+    "sms_count": 293,
+    "data_gb": 29.14,
+    "roaming_mins": 9,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C305",
+    "call_minutes": 1294,
+    "sms_count": 338,
+    "data_gb": 32.18,
+    "roaming_mins": 225,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C306",
+    "call_minutes": 887,
+    "sms_count": 78,
+    "data_gb": 24.96,
+    "roaming_mins": 6,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C307",
+    "call_minutes": 1327,
+    "sms_count": 57,
+    "data_gb": 40.21,
+    "roaming_mins": 257,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C308",
+    "call_minutes": 1685,
+    "sms_count": 119,
+    "data_gb": 10.19,
+    "roaming_mins": 2,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C309",
+    "call_minutes": 718,
+    "sms_count": 331,
+    "data_gb": 43.43,
+    "roaming_mins": 81,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C310",
+    "call_minutes": 1208,
+    "sms_count": 162,
+    "data_gb": 12.12,
+    "roaming_mins": 4,
+    "current_plan": "Plan7",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C311",
+    "call_minutes": 1762,
+    "sms_count": 315,
+    "data_gb": 40.59,
+    "roaming_mins": 186,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C312",
+    "call_minutes": 684,
+    "sms_count": 120,
+    "data_gb": 30.47,
+    "roaming_mins": 228,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C313",
+    "call_minutes": 1948,
+    "sms_count": 96,
+    "data_gb": 34.63,
+    "roaming_mins": 70,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C314",
+    "call_minutes": 649,
+    "sms_count": 224,
+    "data_gb": 18.6,
+    "roaming_mins": 80,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C315",
+    "call_minutes": 1611,
+    "sms_count": 356,
+    "data_gb": 36.69,
+    "roaming_mins": 29,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C316",
+    "call_minutes": 819,
+    "sms_count": 352,
+    "data_gb": 2.32,
+    "roaming_mins": 27,
+    "current_plan": "Plan10",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C317",
+    "call_minutes": 265,
+    "sms_count": 467,
+    "data_gb": 3.63,
+    "roaming_mins": 221,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C318",
+    "call_minutes": 208,
+    "sms_count": 219,
+    "data_gb": 14.88,
+    "roaming_mins": 195,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C319",
+    "call_minutes": 1282,
+    "sms_count": 165,
+    "data_gb": 45.51,
+    "roaming_mins": 45,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C320",
+    "call_minutes": 1766,
+    "sms_count": 90,
+    "data_gb": 6.92,
+    "roaming_mins": 53,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C321",
+    "call_minutes": 132,
+    "sms_count": 55,
+    "data_gb": 26.41,
+    "roaming_mins": 213,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C322",
+    "call_minutes": 84,
+    "sms_count": 283,
+    "data_gb": 5.27,
+    "roaming_mins": 234,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C323",
+    "call_minutes": 1782,
+    "sms_count": 289,
+    "data_gb": 14.2,
+    "roaming_mins": 147,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C324",
+    "call_minutes": 213,
+    "sms_count": 385,
+    "data_gb": 40.63,
+    "roaming_mins": 14,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C325",
+    "call_minutes": 1273,
+    "sms_count": 382,
+    "data_gb": 33.42,
+    "roaming_mins": 230,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C326",
+    "call_minutes": 759,
+    "sms_count": 142,
+    "data_gb": 44.53,
+    "roaming_mins": 150,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C327",
+    "call_minutes": 1785,
+    "sms_count": 316,
+    "data_gb": 2.2,
+    "roaming_mins": 161,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C328",
+    "call_minutes": 1604,
+    "sms_count": 461,
+    "data_gb": 29.79,
+    "roaming_mins": 248,
+    "current_plan": "Plan1",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C329",
+    "call_minutes": 370,
+    "sms_count": 442,
+    "data_gb": 34.62,
+    "roaming_mins": 38,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C330",
+    "call_minutes": 1859,
+    "sms_count": 17,
+    "data_gb": 28.83,
+    "roaming_mins": 83,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C331",
+    "call_minutes": 685,
+    "sms_count": 421,
+    "data_gb": 42.53,
+    "roaming_mins": 115,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C332",
+    "call_minutes": 1692,
+    "sms_count": 148,
+    "data_gb": 49.31,
+    "roaming_mins": 100,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C333",
+    "call_minutes": 1064,
+    "sms_count": 339,
+    "data_gb": 49.2,
+    "roaming_mins": 130,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C334",
+    "call_minutes": 1397,
+    "sms_count": 321,
+    "data_gb": 33.82,
+    "roaming_mins": 20,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C335",
+    "call_minutes": 1636,
+    "sms_count": 297,
+    "data_gb": 40.69,
+    "roaming_mins": 152,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C336",
+    "call_minutes": 1427,
+    "sms_count": 410,
+    "data_gb": 11.31,
+    "roaming_mins": 28,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C337",
+    "call_minutes": 1896,
+    "sms_count": 416,
+    "data_gb": 35.45,
+    "roaming_mins": 20,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C338",
+    "call_minutes": 424,
+    "sms_count": 217,
+    "data_gb": 25.29,
+    "roaming_mins": 231,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C339",
+    "call_minutes": 1073,
+    "sms_count": 147,
+    "data_gb": 6.96,
+    "roaming_mins": 278,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C340",
+    "call_minutes": 1243,
+    "sms_count": 370,
+    "data_gb": 19.05,
+    "roaming_mins": 101,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C341",
+    "call_minutes": 1976,
+    "sms_count": 291,
+    "data_gb": 19.62,
+    "roaming_mins": 274,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C342",
+    "call_minutes": 345,
+    "sms_count": 476,
+    "data_gb": 12.8,
+    "roaming_mins": 13,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C343",
+    "call_minutes": 549,
+    "sms_count": 28,
+    "data_gb": 12.96,
+    "roaming_mins": 285,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C344",
+    "call_minutes": 1468,
+    "sms_count": 294,
+    "data_gb": 1.68,
+    "roaming_mins": 145,
+    "current_plan": "Plan8",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C345",
+    "call_minutes": 779,
+    "sms_count": 80,
+    "data_gb": 48.12,
+    "roaming_mins": 271,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C346",
+    "call_minutes": 884,
+    "sms_count": 482,
+    "data_gb": 35.86,
+    "roaming_mins": 138,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C347",
+    "call_minutes": 1928,
+    "sms_count": 453,
+    "data_gb": 23.2,
+    "roaming_mins": 91,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C348",
+    "call_minutes": 783,
+    "sms_count": 462,
+    "data_gb": 45.87,
+    "roaming_mins": 83,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C349",
+    "call_minutes": 911,
+    "sms_count": 94,
+    "data_gb": 13.02,
+    "roaming_mins": 209,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C350",
+    "call_minutes": 536,
+    "sms_count": 99,
+    "data_gb": 11.07,
+    "roaming_mins": 173,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C351",
+    "call_minutes": 650,
+    "sms_count": 66,
+    "data_gb": 1.77,
+    "roaming_mins": 248,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C352",
+    "call_minutes": 1563,
+    "sms_count": 329,
+    "data_gb": 43.62,
+    "roaming_mins": 54,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C353",
+    "call_minutes": 99,
+    "sms_count": 223,
+    "data_gb": 2.47,
+    "roaming_mins": 260,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C354",
+    "call_minutes": 1626,
+    "sms_count": 334,
+    "data_gb": 26.07,
+    "roaming_mins": 268,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C355",
+    "call_minutes": 1203,
+    "sms_count": 248,
+    "data_gb": 26.38,
+    "roaming_mins": 109,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C356",
+    "call_minutes": 1606,
+    "sms_count": 262,
+    "data_gb": 19.89,
+    "roaming_mins": 87,
+    "current_plan": "Plan4",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C357",
+    "call_minutes": 237,
+    "sms_count": 294,
+    "data_gb": 3.38,
+    "roaming_mins": 81,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C358",
+    "call_minutes": 125,
+    "sms_count": 482,
+    "data_gb": 10.67,
+    "roaming_mins": 137,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C359",
+    "call_minutes": 1266,
+    "sms_count": 186,
+    "data_gb": 9.68,
+    "roaming_mins": 219,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C360",
+    "call_minutes": 1120,
+    "sms_count": 493,
+    "data_gb": 9.91,
+    "roaming_mins": 282,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C361",
+    "call_minutes": 938,
+    "sms_count": 240,
+    "data_gb": 10.98,
+    "roaming_mins": 289,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C362",
+    "call_minutes": 346,
+    "sms_count": 368,
+    "data_gb": 43.56,
+    "roaming_mins": 154,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C363",
+    "call_minutes": 550,
+    "sms_count": 178,
+    "data_gb": 40.13,
+    "roaming_mins": 221,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C364",
+    "call_minutes": 262,
+    "sms_count": 206,
+    "data_gb": 28.84,
+    "roaming_mins": 201,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C365",
+    "call_minutes": 1933,
+    "sms_count": 249,
+    "data_gb": 34.72,
+    "roaming_mins": 142,
+    "current_plan": "Plan5",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C366",
+    "call_minutes": 999,
+    "sms_count": 175,
+    "data_gb": 19.26,
+    "roaming_mins": 282,
+    "current_plan": "Plan9",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C367",
+    "call_minutes": 794,
+    "sms_count": 470,
+    "data_gb": 20.57,
+    "roaming_mins": 297,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C368",
+    "call_minutes": 995,
+    "sms_count": 90,
+    "data_gb": 6.83,
+    "roaming_mins": 278,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C369",
+    "call_minutes": 1514,
+    "sms_count": 120,
+    "data_gb": 14.1,
+    "roaming_mins": 19,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C370",
+    "call_minutes": 627,
+    "sms_count": 284,
+    "data_gb": 41.26,
+    "roaming_mins": 227,
+    "current_plan": "Plan7",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C371",
+    "call_minutes": 636,
+    "sms_count": 101,
+    "data_gb": 8.11,
+    "roaming_mins": 257,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C372",
+    "call_minutes": 544,
+    "sms_count": 311,
+    "data_gb": 25.37,
+    "roaming_mins": 215,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C373",
+    "call_minutes": 1020,
+    "sms_count": 178,
+    "data_gb": 15.6,
+    "roaming_mins": 245,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C374",
+    "call_minutes": 1256,
+    "sms_count": 103,
+    "data_gb": 28.11,
+    "roaming_mins": 19,
+    "current_plan": "Plan8",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C375",
+    "call_minutes": 1386,
+    "sms_count": 386,
+    "data_gb": 32.79,
+    "roaming_mins": 58,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C376",
+    "call_minutes": 790,
+    "sms_count": 24,
+    "data_gb": 42.43,
+    "roaming_mins": 177,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C377",
+    "call_minutes": 1678,
+    "sms_count": 343,
+    "data_gb": 17.65,
+    "roaming_mins": 285,
+    "current_plan": "Plan5",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C378",
+    "call_minutes": 946,
+    "sms_count": 22,
+    "data_gb": 41.93,
+    "roaming_mins": 81,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C379",
+    "call_minutes": 1402,
+    "sms_count": 189,
+    "data_gb": 10.51,
+    "roaming_mins": 129,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C380",
+    "call_minutes": 198,
+    "sms_count": 130,
+    "data_gb": 32.21,
+    "roaming_mins": 284,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C381",
+    "call_minutes": 244,
+    "sms_count": 141,
+    "data_gb": 40.57,
+    "roaming_mins": 194,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C382",
+    "call_minutes": 488,
+    "sms_count": 103,
+    "data_gb": 8.4,
+    "roaming_mins": 176,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C383",
+    "call_minutes": 1173,
+    "sms_count": 470,
+    "data_gb": 45.42,
+    "roaming_mins": 287,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C384",
+    "call_minutes": 792,
+    "sms_count": 179,
+    "data_gb": 23.32,
+    "roaming_mins": 211,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C385",
+    "call_minutes": 952,
+    "sms_count": 192,
+    "data_gb": 6.71,
+    "roaming_mins": 124,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C386",
+    "call_minutes": 1578,
+    "sms_count": 406,
+    "data_gb": 13.85,
+    "roaming_mins": 225,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C387",
+    "call_minutes": 1298,
+    "sms_count": 81,
+    "data_gb": 23.14,
+    "roaming_mins": 230,
+    "current_plan": "Plan8",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C388",
+    "call_minutes": 112,
+    "sms_count": 299,
+    "data_gb": 31.98,
+    "roaming_mins": 244,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C389",
+    "call_minutes": 1056,
+    "sms_count": 490,
+    "data_gb": 0.56,
+    "roaming_mins": 20,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C390",
+    "call_minutes": 1168,
+    "sms_count": 265,
+    "data_gb": 2.35,
+    "roaming_mins": 214,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C391",
+    "call_minutes": 298,
+    "sms_count": 426,
+    "data_gb": 25.69,
+    "roaming_mins": 78,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C392",
+    "call_minutes": 1133,
+    "sms_count": 188,
+    "data_gb": 49.77,
+    "roaming_mins": 269,
+    "current_plan": "Plan5",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C393",
+    "call_minutes": 1873,
+    "sms_count": 355,
+    "data_gb": 1.73,
+    "roaming_mins": 126,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C394",
+    "call_minutes": 1130,
+    "sms_count": 123,
+    "data_gb": 14.43,
+    "roaming_mins": 43,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C395",
+    "call_minutes": 268,
+    "sms_count": 432,
+    "data_gb": 3.81,
+    "roaming_mins": 108,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C396",
+    "call_minutes": 1343,
+    "sms_count": 178,
+    "data_gb": 20.67,
+    "roaming_mins": 26,
+    "current_plan": "Plan8",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C397",
+    "call_minutes": 681,
+    "sms_count": 497,
+    "data_gb": 19.07,
+    "roaming_mins": 87,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C398",
+    "call_minutes": 1950,
+    "sms_count": 427,
+    "data_gb": 38.77,
+    "roaming_mins": 149,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C399",
+    "call_minutes": 635,
+    "sms_count": 448,
+    "data_gb": 20.19,
+    "roaming_mins": 173,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C400",
+    "call_minutes": 1686,
+    "sms_count": 140,
+    "data_gb": 47.56,
+    "roaming_mins": 124,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C401",
+    "call_minutes": 872,
+    "sms_count": 78,
+    "data_gb": 20.17,
+    "roaming_mins": 60,
+    "current_plan": "Plan10",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C402",
+    "call_minutes": 1647,
+    "sms_count": 54,
+    "data_gb": 49.17,
+    "roaming_mins": 138,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C403",
+    "call_minutes": 1109,
+    "sms_count": 111,
+    "data_gb": 16.44,
+    "roaming_mins": 283,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C404",
+    "call_minutes": 555,
+    "sms_count": 396,
+    "data_gb": 38.81,
+    "roaming_mins": 24,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C405",
+    "call_minutes": 817,
+    "sms_count": 222,
+    "data_gb": 39.09,
+    "roaming_mins": 239,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C406",
+    "call_minutes": 730,
+    "sms_count": 468,
+    "data_gb": 4.58,
+    "roaming_mins": 96,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C407",
+    "call_minutes": 1747,
+    "sms_count": 370,
+    "data_gb": 32.93,
+    "roaming_mins": 71,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C408",
+    "call_minutes": 212,
+    "sms_count": 303,
+    "data_gb": 10.56,
+    "roaming_mins": 290,
+    "current_plan": "Plan2",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C409",
+    "call_minutes": 1946,
+    "sms_count": 74,
+    "data_gb": 35.9,
+    "roaming_mins": 217,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C410",
+    "call_minutes": 1062,
+    "sms_count": 438,
+    "data_gb": 30.19,
+    "roaming_mins": 209,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C411",
+    "call_minutes": 1834,
+    "sms_count": 354,
+    "data_gb": 48.46,
+    "roaming_mins": 226,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C412",
+    "call_minutes": 407,
+    "sms_count": 457,
+    "data_gb": 40.45,
+    "roaming_mins": 223,
+    "current_plan": "Plan6",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C413",
+    "call_minutes": 1015,
+    "sms_count": 395,
+    "data_gb": 35.08,
+    "roaming_mins": 47,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C414",
+    "call_minutes": 752,
+    "sms_count": 108,
+    "data_gb": 10.71,
+    "roaming_mins": 117,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C415",
+    "call_minutes": 145,
+    "sms_count": 263,
+    "data_gb": 21.43,
+    "roaming_mins": 222,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C416",
+    "call_minutes": 897,
+    "sms_count": 209,
+    "data_gb": 49.12,
+    "roaming_mins": 30,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C417",
+    "call_minutes": 1524,
+    "sms_count": 42,
+    "data_gb": 46.96,
+    "roaming_mins": 126,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C418",
+    "call_minutes": 1430,
+    "sms_count": 374,
+    "data_gb": 49.02,
+    "roaming_mins": 25,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C419",
+    "call_minutes": 77,
+    "sms_count": 422,
+    "data_gb": 18.97,
+    "roaming_mins": 220,
+    "current_plan": "Plan10",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C420",
+    "call_minutes": 1095,
+    "sms_count": 406,
+    "data_gb": 18.69,
+    "roaming_mins": 188,
+    "current_plan": "Plan4",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C421",
+    "call_minutes": 1141,
+    "sms_count": 242,
+    "data_gb": 27.06,
+    "roaming_mins": 65,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C422",
+    "call_minutes": 1074,
+    "sms_count": 180,
+    "data_gb": 39.49,
+    "roaming_mins": 128,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C423",
+    "call_minutes": 1261,
+    "sms_count": 312,
+    "data_gb": 4.77,
+    "roaming_mins": 44,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C424",
+    "call_minutes": 299,
+    "sms_count": 215,
+    "data_gb": 47.3,
+    "roaming_mins": 197,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C425",
+    "call_minutes": 1997,
+    "sms_count": 342,
+    "data_gb": 40.15,
+    "roaming_mins": 114,
+    "current_plan": "Plan2",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C426",
+    "call_minutes": 1228,
+    "sms_count": 116,
+    "data_gb": 17.08,
+    "roaming_mins": 248,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C427",
+    "call_minutes": 1678,
+    "sms_count": 461,
+    "data_gb": 18.98,
+    "roaming_mins": 154,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C428",
+    "call_minutes": 1574,
+    "sms_count": 86,
+    "data_gb": 38.23,
+    "roaming_mins": 0,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C429",
+    "call_minutes": 1784,
+    "sms_count": 377,
+    "data_gb": 15.33,
+    "roaming_mins": 121,
+    "current_plan": "Plan10",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C430",
+    "call_minutes": 439,
+    "sms_count": 254,
+    "data_gb": 46.78,
+    "roaming_mins": 45,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C431",
+    "call_minutes": 897,
+    "sms_count": 436,
+    "data_gb": 20.64,
+    "roaming_mins": 0,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C432",
+    "call_minutes": 813,
+    "sms_count": 300,
+    "data_gb": 21.19,
+    "roaming_mins": 77,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C433",
+    "call_minutes": 60,
+    "sms_count": 12,
+    "data_gb": 28.9,
+    "roaming_mins": 157,
+    "current_plan": "Plan7",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C434",
+    "call_minutes": 234,
+    "sms_count": 86,
+    "data_gb": 0.87,
+    "roaming_mins": 101,
+    "current_plan": "Plan6",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C435",
+    "call_minutes": 1754,
+    "sms_count": 469,
+    "data_gb": 39.13,
+    "roaming_mins": 3,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C436",
+    "call_minutes": 1021,
+    "sms_count": 93,
+    "data_gb": 27.5,
+    "roaming_mins": 5,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C437",
+    "call_minutes": 144,
+    "sms_count": 328,
+    "data_gb": 48.89,
+    "roaming_mins": 28,
+    "current_plan": "Plan8",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C438",
+    "call_minutes": 218,
+    "sms_count": 407,
+    "data_gb": 39.04,
+    "roaming_mins": 62,
+    "current_plan": "Plan4",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C439",
+    "call_minutes": 144,
+    "sms_count": 155,
+    "data_gb": 20.29,
+    "roaming_mins": 153,
+    "current_plan": "Plan8",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C440",
+    "call_minutes": 143,
+    "sms_count": 414,
+    "data_gb": 28.87,
+    "roaming_mins": 47,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C441",
+    "call_minutes": 573,
+    "sms_count": 430,
+    "data_gb": 26.5,
+    "roaming_mins": 209,
+    "current_plan": "Plan5",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C442",
+    "call_minutes": 563,
+    "sms_count": 489,
+    "data_gb": 25.32,
+    "roaming_mins": 16,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C443",
+    "call_minutes": 1067,
+    "sms_count": 153,
+    "data_gb": 27.99,
+    "roaming_mins": 187,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C444",
+    "call_minutes": 1534,
+    "sms_count": 463,
+    "data_gb": 12.87,
+    "roaming_mins": 190,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C445",
+    "call_minutes": 941,
+    "sms_count": 458,
+    "data_gb": 26.61,
+    "roaming_mins": 168,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C446",
+    "call_minutes": 214,
+    "sms_count": 137,
+    "data_gb": 45.8,
+    "roaming_mins": 267,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C447",
+    "call_minutes": 555,
+    "sms_count": 336,
+    "data_gb": 5.13,
+    "roaming_mins": 160,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C448",
+    "call_minutes": 1013,
+    "sms_count": 105,
+    "data_gb": 45.91,
+    "roaming_mins": 145,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C449",
+    "call_minutes": 194,
+    "sms_count": 413,
+    "data_gb": 20.38,
+    "roaming_mins": 81,
+    "current_plan": "Plan3",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C450",
+    "call_minutes": 554,
+    "sms_count": 305,
+    "data_gb": 42.85,
+    "roaming_mins": 30,
+    "current_plan": "Plan1",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C451",
+    "call_minutes": 1715,
+    "sms_count": 200,
+    "data_gb": 15.55,
+    "roaming_mins": 168,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C452",
+    "call_minutes": 885,
+    "sms_count": 479,
+    "data_gb": 25.54,
+    "roaming_mins": 95,
+    "current_plan": "Plan6",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C453",
+    "call_minutes": 897,
+    "sms_count": 318,
+    "data_gb": 43.79,
+    "roaming_mins": 154,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C454",
+    "call_minutes": 193,
+    "sms_count": 180,
+    "data_gb": 3.17,
+    "roaming_mins": 51,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C455",
+    "call_minutes": 1747,
+    "sms_count": 120,
+    "data_gb": 3.8,
+    "roaming_mins": 296,
+    "current_plan": "Plan8",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C456",
+    "call_minutes": 68,
+    "sms_count": 65,
+    "data_gb": 45.97,
+    "roaming_mins": 257,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C457",
+    "call_minutes": 1918,
+    "sms_count": 135,
+    "data_gb": 17.4,
+    "roaming_mins": 106,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C458",
+    "call_minutes": 1554,
+    "sms_count": 216,
+    "data_gb": 32.96,
+    "roaming_mins": 202,
+    "current_plan": "Plan9",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C459",
+    "call_minutes": 1209,
+    "sms_count": 317,
+    "data_gb": 10.65,
+    "roaming_mins": 99,
+    "current_plan": "Plan5",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C460",
+    "call_minutes": 89,
+    "sms_count": 253,
+    "data_gb": 16.99,
+    "roaming_mins": 232,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C461",
+    "call_minutes": 792,
+    "sms_count": 384,
+    "data_gb": 20.24,
+    "roaming_mins": 85,
+    "current_plan": "Plan7",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C462",
+    "call_minutes": 238,
+    "sms_count": 444,
+    "data_gb": 42.05,
+    "roaming_mins": 62,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C463",
+    "call_minutes": 1856,
+    "sms_count": 465,
+    "data_gb": 32.01,
+    "roaming_mins": 41,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C464",
+    "call_minutes": 230,
+    "sms_count": 215,
+    "data_gb": 28.66,
+    "roaming_mins": 251,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C465",
+    "call_minutes": 1935,
+    "sms_count": 235,
+    "data_gb": 34.45,
+    "roaming_mins": 71,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C466",
+    "call_minutes": 305,
+    "sms_count": 465,
+    "data_gb": 42.63,
+    "roaming_mins": 124,
+    "current_plan": "Plan6",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C467",
+    "call_minutes": 941,
+    "sms_count": 92,
+    "data_gb": 18.92,
+    "roaming_mins": 13,
+    "current_plan": "Plan3",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C468",
+    "call_minutes": 173,
+    "sms_count": 467,
+    "data_gb": 43.74,
+    "roaming_mins": 80,
+    "current_plan": "Plan9",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C469",
+    "call_minutes": 332,
+    "sms_count": 465,
+    "data_gb": 5.37,
+    "roaming_mins": 182,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C470",
+    "call_minutes": 810,
+    "sms_count": 150,
+    "data_gb": 28.92,
+    "roaming_mins": 155,
+    "current_plan": "Plan1",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C471",
+    "call_minutes": 177,
+    "sms_count": 298,
+    "data_gb": 24.87,
+    "roaming_mins": 137,
+    "current_plan": "Plan1",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C472",
+    "call_minutes": 1818,
+    "sms_count": 67,
+    "data_gb": 22.58,
+    "roaming_mins": 47,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C473",
+    "call_minutes": 1728,
+    "sms_count": 32,
+    "data_gb": 22.8,
+    "roaming_mins": 211,
+    "current_plan": "Plan6",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C474",
+    "call_minutes": 816,
+    "sms_count": 310,
+    "data_gb": 7.21,
+    "roaming_mins": 8,
+    "current_plan": "Plan7",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C475",
+    "call_minutes": 336,
+    "sms_count": 151,
+    "data_gb": 42.34,
+    "roaming_mins": 20,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C476",
+    "call_minutes": 722,
+    "sms_count": 66,
+    "data_gb": 23.25,
+    "roaming_mins": 172,
+    "current_plan": "Plan10",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C477",
+    "call_minutes": 1835,
+    "sms_count": 168,
+    "data_gb": 17.1,
+    "roaming_mins": 87,
+    "current_plan": "Plan2",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C478",
+    "call_minutes": 207,
+    "sms_count": 337,
+    "data_gb": 4.31,
+    "roaming_mins": 292,
+    "current_plan": "Plan7",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C479",
+    "call_minutes": 1722,
+    "sms_count": 428,
+    "data_gb": 26.16,
+    "roaming_mins": 30,
+    "current_plan": "Plan5",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C480",
+    "call_minutes": 1405,
+    "sms_count": 105,
+    "data_gb": 46.39,
+    "roaming_mins": 263,
+    "current_plan": "Plan6",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C481",
+    "call_minutes": 765,
+    "sms_count": 398,
+    "data_gb": 46.93,
+    "roaming_mins": 3,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C482",
+    "call_minutes": 129,
+    "sms_count": 171,
+    "data_gb": 0.62,
+    "roaming_mins": 229,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C483",
+    "call_minutes": 584,
+    "sms_count": 433,
+    "data_gb": 36.57,
+    "roaming_mins": 121,
+    "current_plan": "Plan2",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C484",
+    "call_minutes": 1210,
+    "sms_count": 120,
+    "data_gb": 27.66,
+    "roaming_mins": 233,
+    "current_plan": "Plan4",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C485",
+    "call_minutes": 891,
+    "sms_count": 208,
+    "data_gb": 34.04,
+    "roaming_mins": 246,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C486",
+    "call_minutes": 1407,
+    "sms_count": 76,
+    "data_gb": 2.74,
+    "roaming_mins": 58,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C487",
+    "call_minutes": 1859,
+    "sms_count": 77,
+    "data_gb": 0.56,
+    "roaming_mins": 211,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C488",
+    "call_minutes": 829,
+    "sms_count": 211,
+    "data_gb": 12.18,
+    "roaming_mins": 228,
+    "current_plan": "Plan4",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C489",
+    "call_minutes": 234,
+    "sms_count": 132,
+    "data_gb": 24.3,
+    "roaming_mins": 22,
+    "current_plan": "Plan1",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C490",
+    "call_minutes": 1456,
+    "sms_count": 223,
+    "data_gb": 21.28,
+    "roaming_mins": 271,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C491",
+    "call_minutes": 517,
+    "sms_count": 131,
+    "data_gb": 37.99,
+    "roaming_mins": 135,
+    "current_plan": "Plan9",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C492",
+    "call_minutes": 1319,
+    "sms_count": 213,
+    "data_gb": 25.49,
+    "roaming_mins": 286,
+    "current_plan": "Plan7",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C493",
+    "call_minutes": 492,
+    "sms_count": 55,
+    "data_gb": 17.55,
+    "roaming_mins": 258,
+    "current_plan": "Plan3",
+    "customer_segment": "Data-Heavy Users"
+  },
+  {
+    "customer_id": "C494",
+    "call_minutes": 623,
+    "sms_count": 434,
+    "data_gb": 10.0,
+    "roaming_mins": 6,
+    "current_plan": "Plan10",
+    "customer_segment": "Balanced High Users"
+  },
+  {
+    "customer_id": "C495",
+    "call_minutes": 421,
+    "sms_count": 36,
+    "data_gb": 32.8,
+    "roaming_mins": 154,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C496",
+    "call_minutes": 1357,
+    "sms_count": 229,
+    "data_gb": 31.32,
+    "roaming_mins": 98,
+    "current_plan": "Plan9",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C497",
+    "call_minutes": 1632,
+    "sms_count": 158,
+    "data_gb": 44.4,
+    "roaming_mins": 56,
+    "current_plan": "Plan2",
+    "customer_segment": "Heavy Voice Users"
+  },
+  {
+    "customer_id": "C498",
+    "call_minutes": 554,
+    "sms_count": 45,
+    "data_gb": 8.73,
+    "roaming_mins": 90,
+    "current_plan": "Plan10",
+    "customer_segment": "Low Usage"
+  },
+  {
+    "customer_id": "C499",
+    "call_minutes": 1507,
+    "sms_count": 307,
+    "data_gb": 40.87,
+    "roaming_mins": 262,
+    "current_plan": "Plan3",
+    "customer_segment": "Moderate Users"
+  },
+  {
+    "customer_id": "C500",
+    "call_minutes": 1095,
+    "sms_count": 161,
+    "data_gb": 46.21,
+    "roaming_mins": 196,
+    "current_plan": "Plan3",
+    "customer_segment": "Heavy Voice Users"
+  }
+]
